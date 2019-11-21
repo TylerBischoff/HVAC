@@ -1,5 +1,5 @@
 # HVAC Assignment
-Created & Written by: names
+Created & Written by: Tyler Bischoff, Nathaniel Prewitt, Cody Payne, Chris Arnold
 
  You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method, or submit a pdf if you prefer.
 
@@ -44,6 +44,6 @@ The code integrates with physical build when it uses a different setting dependi
 ## Output Video
 You can find video of the automated HVAC system at this [YouTube link](youtube.com/watch?v=o7CekxN9O8s)
 
-_Edited by: names_
+_Edited by: Randy Parker, Dalton Lucas, Devin Reed,Jamon Brooks_
 
 
