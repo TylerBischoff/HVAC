@@ -1,4 +1,4 @@
-#HVAC Assignment
+# HVAC Assignment
 
  You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method, or submit a pdf if you prefer.
 
