@@ -27,7 +27,7 @@ Our project includes the following elements to meet the design constraints:
 Our build includes Fischertechnik components to ensure repeatability. For example;
 We used an analog part that changes value depending on the temperature. We were able to use this value to ensure that the program would always maintain temperature and repeat itself 100% of the time.
 
-##ROBOPro Programming Software
+## ROBOPro Programming Software
 1. Design Constraints - All design constraints are met and the prototype goes above and beyond.
 
 Our project includes the following elements to meet the design constraints:
