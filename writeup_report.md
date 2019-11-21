@@ -41,6 +41,6 @@ The code integrates with physical build when it uses a different setting dependi
 
 ## Output Video
 You can find video of the automated HVAC system at this YouTube link:
-youtube.com/watch?v=o7CekxN9O8s
+[YouTube link] (youtube.com/watch?v=o7CekxN9O8s)
 
 
