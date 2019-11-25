@@ -1,5 +1,5 @@
 # HVAC Assignment
-Created & Written by: Tyler Bischoff, Nathaniel Prewitt, Cody Payne, Chris Arnold
+Created & Written by: [Tyler Bischoff](https://github.com/TylerBischoff), [Nathaniel Prewitt](https://github.com/NathanielPP), Cody Payne, Chris Arnold
 
  You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method, or submit a pdf if you prefer.
 
@@ -42,8 +42,6 @@ We used loops to ensure that the program always repeats itself. By using two sep
 The code integrates with the physical build when it uses a different setting depending on the temperature inside of the build.
 
 ## Output Video
-You can find video of the automated HVAC system at this Youtube link.(youtube.com/watch?v=o7CekxN9O8s)
+You can find video of the automated HVAC system at this [Youtube link](https://www.youtube.com/watch?v=o7CekxN9O8s).
 
-_Edited by: Randy Parker, Dalton Lucas, Devin Reed,Jamon Brooks_
-
-
+_Edited by: [Randy Parker](https://github.com/trashpanda1016), [Dalton Lucas](https://github.com/ddlucas07), [Devin Reed](https://github.com/DevinRead), Jamon Brooks_
