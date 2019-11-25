@@ -42,7 +42,7 @@ We used loops to ensure that the program always repeats itself. By using two sep
 The code integrates with the physical build when it uses a different setting depending on the temperature inside of the build.
 
 ## Output Video
-You can find video of the automated HVAC system at this [YouTube link](youtube.com/watch?v=o7CekxN9O8s)
+You can find video of the automated HVAC system at this Youtube link.(youtube.com/watch?v=o7CekxN9O8s)
 
 _Edited by: Randy Parker, Dalton Lucas, Devin Reed,Jamon Brooks_
 
