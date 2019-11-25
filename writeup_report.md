@@ -39,7 +39,7 @@ Our project includes the following elements to meet the design constraints:
 
 Our build includes certain loops and functions to ensure program repeatability. For example;
 We used loops to ensure that the program always repeats itself. By using two separate loops to create one loop, we were able to use an analog function that would either use the loop that heats the prototype or cools down the prototype. If it ever gets too hot or too cold it will use extra power to heat or cool it faster. 
-The code integrates with physical build when it uses a different setting depending on the temperature inside of the physical build.
+The code integrates with the physical build when it uses a different setting depending on the temperature inside of the build.
 
 ## Output Video
 You can find video of the automated HVAC system at this [YouTube link](youtube.com/watch?v=o7CekxN9O8s)
